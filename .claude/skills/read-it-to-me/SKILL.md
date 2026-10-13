@@ -37,6 +37,10 @@ Read slide 1, then 2, then 3, in order. Do not skip ahead.
 
 Do not invent a voice. Do not call an API the user did not already give you.
 
+## Save a reel
+
+If you can render video, offer one 9:16 mp4. Hold each slide while its line plays. Dark background. No extra captions over the words. If you cannot render video, skip this.
+
 ## Not yet
 
-Video, reels, stories, profiles, and other apps. Only add those if they ask.
+Video posts, reels as input, stories, profiles, and other apps. Only add those if they ask.
