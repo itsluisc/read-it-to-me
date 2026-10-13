@@ -27,6 +27,14 @@ The skill is already in the folders those agents scan. Clone this repo into a pr
 
 Then say "read this carousel to me" and paste the link.
 
+## Credits
+
+This repo is just the instructions. It does not charge anyone. Whoever runs the skill uses their own Grok, Claude, or Codex account.
+
+## Contribute
+
+Pull requests are open. Keep it to photo carousels, and keep the skill short.
+
 ## Later
 
-Video, stories, and other apps can be added. They are not part of this skill.
+Video, stories, and other apps can be added. They are not part of this skill yet. A 9:16 reel is optional, only when the agent can actually render one.
